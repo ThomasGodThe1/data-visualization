@@ -8,7 +8,7 @@ const Wrapper = styled.footer`
 function Footer() {
   return (
     <Wrapper>
-      <p>2020 &copy; Thomas Kidane and Sofoniyas Tekalegn. All right reserved.</p>
+      <p>2024 &copy; Thomas Kidane and Sofoniyas Tekalegn. All right reserved.</p>
     </Wrapper>
   );
 }
