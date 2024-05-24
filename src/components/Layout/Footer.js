@@ -8,7 +8,7 @@ const Wrapper = styled.footer`
 function Footer() {
   return (
     <Wrapper>
-      <p>2020 &copy; Sofoniyas tekalegn. All right reserved.</p>
+      <p>2024 &copy; Sofoniyas tekalegn. All right reserved.</p>
     </Wrapper>
   );
 }
